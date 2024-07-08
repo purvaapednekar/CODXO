@@ -1,4 +1,4 @@
 # CODXO
 Internship project
 <br>
-Author- Purvaa Pednekar
+Author- (Purvaa Pednekar)
